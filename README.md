@@ -6,7 +6,7 @@
 
 Após a instalação (Usar terminal como administrador), rodar os comandos:
 ```sh
-git clone https://github.com/xfelipesobral/ProjetoSistemasMultimida # Faz commit do projeto, será solicitado seu usuário e senha do Github
+git clone https://github.com/xfelipesobral/ProjetoSistemasMultimida
 npm install -g expo-cli # Instala o Expo (V 3.18)
 ```
 
